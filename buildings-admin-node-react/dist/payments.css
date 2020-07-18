@@ -1,0 +1,14 @@
+@charset "UTF-8";
+/* TODO: ESTILOS GLOBALES DE LA PÁGINA */
+a {
+  text-decoration: none; }
+
+a:hover {
+  text-decoration: none; }
+
+.page-header {
+  background-color: blueviolet; }
+
+.page-content {
+  margin: 10px; }
+
